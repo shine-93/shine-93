@@ -1,5 +1,14 @@
 ### Park, So Hyun
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shine-93/hit-counter)](https://hits.seeyoufarm.com)
+
+#### Career
+
+- Research Assistant @ [University of New Brunswick, Faculty of Computer Science](https://www.unb.ca/fredericton/cs/)
+- Software Developer @ [IBM Canada Ltd.](https://www.ibm.com/ca-en)
+
+#### Publications
+
 <!--
 **shine-93/shine-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
