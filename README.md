@@ -23,7 +23,7 @@
 #### Talks
 
 - Classifying Out-of-vocabulary Terms in a Domain-Specific Social Media Corpus, **National Research Council of Canada**
-- Introduction to Natural Language Processing, 13th Annual Faculty of Computer Science Research Exposition, **University of New Brunswick**
+- 13th Annual Faculty of Computer Science Research Exposition, **University of New Brunswick**
 
 <!--
 **shine-93/shine-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
