@@ -17,13 +17,14 @@
 
 #### Teaching Experiences
 
-- Lab Assistant, [CSC148: Introduction to Computer Science (Python)](https://fas.calendar.utoronto.ca/course/csc148h1), University of Toronto
-- Lab Assistant, [CS1073: Introduction to Computer Programming I (Java)](https://www.unb.ca/academics/calendar/undergraduate/current/saint-john-courses/computer-science-courses/cs-1073.html), University of New Brunswick
+- Lab Assistant, [CSC148: Introduction to Computer Science](https://fas.calendar.utoronto.ca/course/csc148h1), University of Toronto
+- Lab Assistant, [CS1073: Introduction to Computer Programming I](https://www.unb.ca/academics/calendar/undergraduate/current/saint-john-courses/computer-science-courses/cs-1073.html), University of New Brunswick
 
 #### Talks
 
 - Classifying Out-of-vocabulary Terms in a Domain-Specific Social Media Corpus, **National Research Council of Canada**
-- 13th Annual Faculty of Computer Science Research Exposition, **University of New Brunswick**
+- Introduction to Natural Language Processing, 13th Annual Faculty of Computer Science Research Exposition, **University of New Brunswick**
+
 <!--
 **shine-93/shine-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
