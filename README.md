@@ -1,8 +1,9 @@
 ### Park, So Hyun
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshine-93&count_bg=%2320315E&title_bg=%23555555&icon=influxdb.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fshine-93&count_bg=%231D3349&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohyun-park/)](https://www.linkedin.com/in/sohyun-park/)
+[![Medium Badge](https://img.shields.io/badge/@sohyun_park-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@sohyun_park)](https://medium.com/@sohyun_park)
 
 #### Career
 
