@@ -18,7 +18,7 @@
 #### Teaching Experiences
 
 - Lab Assistant, [CSC148: Introduction to Computer Science (Python)](https://fas.calendar.utoronto.ca/course/csc148h1), University of Toronto
-- Lab Assistant, [CSC1073: Introduction to Computer Programming I (Java)](https://www.unb.ca/academics/calendar/undergraduate/current/saint-john-courses/computer-science-courses/cs-1073.html), University of New Brunswick
+- Lab Assistant, [CS1073: Introduction to Computer Programming I (Java)](https://www.unb.ca/academics/calendar/undergraduate/current/saint-john-courses/computer-science-courses/cs-1073.html), University of New Brunswick
 
 #### Talks
 
